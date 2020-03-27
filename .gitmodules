@@ -1,0 +1,3 @@
+[submodule "third_party/mysql-connector-cpp"]
+	path = third_party/mysql-connector-cpp
+	url = http://gitlab.greatopensource.com/deps/mysql-connector-cpp.git
